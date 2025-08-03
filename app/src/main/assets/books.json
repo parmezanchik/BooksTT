@@ -1,0 +1,27 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel about totalitarianism."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A story of racial injustice in the Deep South."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "The saga of Captain Ahab and the white whale."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "Classic romance and societal commentary."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A critique of the American Dream."
+  }
+]
